@@ -130,3 +130,7 @@ tr{
   background:#83c0f1;
   border: #FFFFFF solid 1px;
 }
+
+a{
+  text-decoration:none;
+}
