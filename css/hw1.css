@@ -55,7 +55,9 @@ aside img{
   float:left;
   align-content: center;
 }
-
+a{
+  text-decoration:none;
+}
 nav a{
   color:#000000;
   opacity:0.5;
