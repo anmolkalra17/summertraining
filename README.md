@@ -1,1 +1,1 @@
-# summertraining.github.io
+# summertraining project
